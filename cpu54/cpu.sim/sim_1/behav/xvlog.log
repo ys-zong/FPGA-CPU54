@@ -1,0 +1,58 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MULTU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULTU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MULT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/DIVU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIVU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder5_32
+INFO: [VRFC 10-311] analyzing module MUX32_1
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/npc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module npc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MUX6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MUX4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MUX3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MUX2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MUX1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/MDHL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MDHL
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/instr_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instr_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/II.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module II
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/EXTS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXTS
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/EXTN.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXTN
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/CP0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CP0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/CLZ.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLZ
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/ADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/IMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sources_1/new/sccomp_dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.srcs/sim_1/new/sccomp_dataflow_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Mathlogic/Project/cpu54/cpu.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

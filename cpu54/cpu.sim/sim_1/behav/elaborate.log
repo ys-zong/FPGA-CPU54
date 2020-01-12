@@ -1,0 +1,38 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Mathlogic/vivado/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 5320a42c67f944f09b94bdacbad0ef9e --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sccomp_dataflow_tb_behav xil_defaultlib.sccomp_dataflow_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.instr_decoder
+Compiling module xil_defaultlib.control
+Compiling module xil_defaultlib.CP0
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.CLZ
+Compiling module xil_defaultlib.MULT
+Compiling module xil_defaultlib.MULTU
+Compiling module xil_defaultlib.DIV
+Compiling module xil_defaultlib.DIVU
+Compiling module xil_defaultlib.MDHL
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.MUX1
+Compiling module xil_defaultlib.MUX2
+Compiling module xil_defaultlib.MUX3
+Compiling module xil_defaultlib.MUX4
+Compiling module xil_defaultlib.MUX6
+Compiling module xil_defaultlib.EXTN
+Compiling module xil_defaultlib.EXTS
+Compiling module xil_defaultlib.ADD
+Compiling module xil_defaultlib.npc
+Compiling module xil_defaultlib.II
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.IMEM
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module xil_defaultlib.sccomp_dataflow_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sccomp_dataflow_tb_behav

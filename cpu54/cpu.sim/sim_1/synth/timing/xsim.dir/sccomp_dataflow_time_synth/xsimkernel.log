@@ -1,0 +1,7 @@
+Running: xsim.dir/sccomp_dataflow_time_synth/xsimk.exe -simmode gui -wdb sccomp_dataflow_time_synth.wdb -simrunnum 0 -socket 49983
+Design successfully loaded
+Design Loading Memory Usage: 274164 KB (Peak: 274164 KB)
+Design Loading CPU Usage: 1733 ms
+Simulation completed
+Simulation Memory Usage: 300784 KB (Peak: 300784 KB)
+Simulation CPU Usage: 3015 ms
